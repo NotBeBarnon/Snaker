@@ -1,0 +1,7 @@
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.1.3"
+tag_format = "CowaveSnake2021_$version"
+use_shortcuts = true
+update_changelog_on_bump = true
+annotated_tag = true
